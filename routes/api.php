@@ -1,9 +1,9 @@
 <?php
 
-use App\Http\Controllers\api\AuthController;
+use App\Http\Controllers\Api\AuthController;
 use App\Http\Controllers\Api\UserController;
-use App\Http\Controllers\api\ProductoController;
-use App\Http\Controllers\api\VentasController;
+use App\Http\Controllers\Api\ProductoController;
+use App\Http\Controllers\Api\VentasController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use Spatie\Permission\Models\Role;
